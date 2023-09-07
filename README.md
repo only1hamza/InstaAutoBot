@@ -1,7 +1,7 @@
 # InstaAutoBot
 AutoBot For Instagram Automations v1.3 beta
-Free open source script, only for education and research purpse
-Use this script as your resposability
+Free open source script, only for education and research purposes
+Use this script as your responsibility
 
 Before open Run.py, Install necessary packages by using pip
 - selenuim
