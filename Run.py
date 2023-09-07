@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 import time, random
 from datetime import datetime
 from tqdm import tqdm
-from telegrambot import tgmsg
+from telegram_api import tgmsg
 
 # Timer
 def timenow():
